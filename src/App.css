@@ -1,0 +1,36 @@
+
+body {
+  background-color: #1e2931;
+  color: #fff;
+  font-family: Verdana, sans-serif;
+  font-style: normal;
+  line-height: 1.5;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.SearchBar{
+  padding: 15px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border: 2px solid black;
+  width: 900px;
+  border-radius: 5px;
+  margin-left: 260px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.cardContainer{
+  
+  width: 80vw;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+  margin-left: 120px;
+ 
+}
+
+
+
